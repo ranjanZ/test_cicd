@@ -1,9 +1,10 @@
 import os
-print("Hello*********** testing cicd")
 
 
+def f():
+    return("ranjan")
 
-os.system("ls")
+
 
 
 
